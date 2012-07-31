@@ -1,4 +1,4 @@
-# print "ruby is easy!  „Öã„Öã„Öã„Öã„Öã \n"hello,Ruby!"
+# print "ruby is easy!  §ª§ª§ª§ª§ª \n"hello,Ruby!"
 # puts 4+3
 
 a="Ruby"
@@ -33,39 +33,12 @@ puts sum
 age = 31
 
 # if age >= 40
-  # puts "ÎåÄÏÑ† Ï∂úÎßà Í∞ÄÎä• "
+  # puts "¥Îº± √‚∏∂ ∞°¥… "
 # elsif age >=19
-  # puts "Ìà¨ÌëúÍ∞ÄÎä• "
+  # puts "≈ı«•∞°¥… "
 # else  
-  # puts "Ìà¨ÌëúÎ∂àÍ∞Ä "
+  # puts "≈ı«•∫“∞° "
 # end
 
-if age >= 18 then print "aaa ÏùåÏ£ºÍ∞ÄÎä• aaa" end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+if age >= 18 then print "aaa ¿Ω¡÷∞°¥… aaa" end
 
