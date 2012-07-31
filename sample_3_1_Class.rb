@@ -13,6 +13,16 @@ class Cat
   def say
     puts @name + " says meow!"
   end
+  
+  #이름을 리턴하는 함
+  def name
+    @name
+  end
+  
+  def name=(new_name)
+    @name = new_name
+  end
+  
 end
 
 # Cat 클래스의 인스턴스를 만들기 위해서는 Cat.new 메소드를 호출해야 합니다.
@@ -45,6 +55,9 @@ a_lion.say
 #=> ...oops, roars!
 
 
+
+a_lion.name="Mountin Lion"
+puts a_lion.name
 
 
 
